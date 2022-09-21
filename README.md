@@ -66,7 +66,7 @@ growth.
     
    
   <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/Shub118/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Shub118&column=7"/>
   </a>
 </div>
