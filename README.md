@@ -8,7 +8,7 @@
 
 <!----------- About Section--------------------->
 
-<h3 align="center"> <i> A passionate Backend developer seeking an organization to contribute my skills and knowldege 
+<h3 align="center"> <i> A passionate Backend developer seeking an opportunity in an organization to contribute my skills and knowldege 
 for organizations growth. </i> <br>
 
 </h3>
