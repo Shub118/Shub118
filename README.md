@@ -88,3 +88,17 @@ for organizations growth. </i> <br>
   <br/>
    <a href="https://github.com/Shub118"><img alt="Shubham's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Shub118&custom_title=Shubham's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
+
+
+
+
+
+
+
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Shub118}/count.svg" /></p> 
+<br></div>
+<p align="center">
+<img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" /><img align="" height='120px' src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" /><img align="" height='120px' src="https://github.com/Dev-Mriganka/Dev-Mriganka/blob/main/Geometric%20White.gif" />
+</p>
+<br>
