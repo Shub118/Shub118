@@ -8,7 +8,8 @@
 
 <!----------- About Section--------------------->
 
-<h3 align="center"> <i> I am a passionate Backend developer I love to make robust backend spring Boot apis, My obsesion to solve problem helps me in debugging my code and in my free time I like to Watch standup comedies and I am looking for an opportunity in an organization to contribute my skills and knowldege for organizations growth. </i> <br>
+<h3 align="center"> <i> I am a passionate Backend developer I love to make robust backend spring Boot apis, My obsesion to solve problem helps me in debugging my code and in my free time I like to Watch standup comedies <br>
+    I am looking for an opportunity in an organization to contribute my skills and knowldege for organizations growth. </i> <br>
 
 </h3>
 
